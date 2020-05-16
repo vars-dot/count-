@@ -5,3 +5,5 @@ scount=0
 for i in range(1,len(str)):
   if(str[i]=='a' or str[i]=='e or str[i]=='i' or str[i]='o' or str[i]='o')
     vcount=vcount+1
+  elif(str[i]>='a' and str[i]<='z'):
+    ccount=count+1
