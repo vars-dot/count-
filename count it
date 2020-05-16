@@ -1,0 +1,4 @@
+str=input("enter the string")
+vcount=0
+ccount=0
+scount=0
